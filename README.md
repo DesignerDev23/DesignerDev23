@@ -1,25 +1,19 @@
 # Hi there, I'm Musa Abdulkadir 👋
 
-Welcome to my GitHub profile! I'm a versatile and passionate developer with a background in both graphic design and front-end development. I have a proven track record of delivering high-quality mobile applications and websites.
+Welcome to my GitHub profile! I'm a versatile and passionate developer with a background in both front-end development and graphic design. I have a proven track record of delivering high-quality mobile applications and websites.
 
 ## 🚀 About Me
 
-I am a dedicated and enthusiastic Mobile App Front-End Engineer with over 7 years of combined experience in graphic design and front-end development. My journey started as a professional graphic designer, where I honed my skills in visual aesthetics and design principles. Transitioning into front-end development, I have embraced modern web and mobile technologies to build seamless and user-friendly applications.
+I am a dedicated and enthusiastic Front-End Developer with over 7 years of combined experience in front-end development and graphic design. My journey started as a professional graphic designer, where I honed my skills in visual aesthetics and design principles. Transitioning into front-end development, I have embraced modern web and mobile technologies to build seamless and user-friendly applications.
 
-- 🎨 **Professional Graphic Designer**: 3 years of experience using tools like Adobe Photoshop, Corel Draw, Figma, Illustrator, and more.
 - 💻 **Front-End Developer**: 4 years of professional experience with expertise in HTML, CSS, JavaScript, PHP, React Native, Node.js, Express.js, Next.js, and more.
+- 🎨 **Professional Graphic Designer**: 3 years of experience using tools like Adobe Photoshop, Corel Draw, Figma, Illustrator, and more.
 - 🌟 **Successful Projects**: Delivered 10 mobile application projects and numerous websites.
 - 🌐 **Company Experience**: Worked with 7 notable companies including Sparklab Hub, EGL Africa, Centrall, Tri-tech, Startup Kano, Bigtech Agency, and more.
 
 ## 🛠️ Technologies & Tools
 
-### Design Tools
-- **Adobe Photoshop**: Advanced skills in photo editing, compositing, and creating marketing materials.
-- **Corel Draw**: Proficient in vector graphics design for logos, brochures, and print media.
-- **Figma**: Expertise in collaborative design, creating UI/UX designs, and prototyping.
-- **Adobe Illustrator**: Skilled in vector design, illustration, and typography.
-
-### Development Skills
+### Front-End Development
 - **HTML**: Semantic HTML5, ensuring accessible and SEO-friendly markup.
 - **CSS**: Advanced CSS, including Flexbox, Grid, and responsive design techniques.
 - **JavaScript**: ES6+, asynchronous programming, and DOM manipulation.
@@ -34,6 +28,12 @@ I am a dedicated and enthusiastic Mobile App Front-End Engineer with over 7 year
 - **VS Code**: Customizing the editor for efficient development.
 - **npm/yarn**: Managing project dependencies and scripts.
 - **CI/CD Tools**: Automating build, test, and deployment pipelines (e.g., Fastlane, GitHub Actions).
+
+### Design Tools
+- **Adobe Photoshop**: Advanced skills in photo editing, compositing, and creating marketing materials.
+- **Corel Draw**: Proficient in vector graphics design for logos, brochures, and print media.
+- **Figma**: Expertise in collaborative design, creating UI/UX designs, and prototyping.
+- **Adobe Illustrator**: Skilled in vector design, illustration, and typography.
 
 ## 📚 Projects
 
