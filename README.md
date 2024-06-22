@@ -37,25 +37,31 @@ I am a dedicated and enthusiastic Front-End Developer with over 7 years of combi
 
 ## 📚 Projects
 
-### [Project 1: Mobile App A](https://github.com/yourusername/mobile-app-a)
-A cutting-edge mobile app built with React Native for managing daily tasks efficiently. Features include:
-- Task creation, editing, and deletion.
-- Push notifications for task reminders.
-- Integration with Google Calendar for scheduling.
+### [Project 1: Daily News 24](https://play.google.com/store/apps/details?id=com.designer_dev.dailynews24&pcampaignid=web_share)
+A cutting-edge news app built with React Native to keep users updated with the latest news. Features include:
+- News article listing and detail views.
+- Push notifications for breaking news.
+- Integration with various news sources.
 
-### [Project 2: Mobile App B](https://github.com/yourusername/mobile-app-b)
-An innovative fitness tracker app developed with React Native and Node.js backend. Key functionalities:
-- Real-time activity tracking using device sensors.
-- Custom workout plans and exercise logging.
-- Social sharing of fitness milestones and achievements.
+### [Project 2: Sunnah Snap](https://play.google.com/store/apps/details?id=com.itsbgold.SunnahSnap)
+An app that contains collections of hadith, built with React Native. Features include:
+- Hadith browsing, searching, and bookmarking.
+- Daily hadith notifications.
+- User-friendly interface for easy navigation.
 
-### [Project 3: Website A](https://github.com/yourusername/website-a)
+### [Project 3: EGL Africa](https://play.google.com/store/apps/details?id=co.median.android.ryxzjo&pcampaignid=web_share)
+An innovative e-commerce app developed with React Native and Node.js backend. Key functionalities:
+- Product listing and detail views.
+- Shopping cart and checkout process.
+- Order tracking and user account management.
+
+### [Project 4: SparkLab Creativity and Innovation Hub](https://sparklabhub.com/)
 A responsive and dynamic website created using HTML, CSS, JavaScript, and PHP. Highlights:
 - User authentication and session management.
 - Interactive user dashboard with personalized content.
 - Secure data handling and validation.
 
-### [Project 4: Website B](https://github.com/yourusername/website-b)
+### [Project 5: Desert Sky](http://desertsky.space/)
 A modern e-commerce website designed with Next.js and Express.js. Key features:
 - Product listing, searching, and filtering.
 - Shopping cart and checkout process with payment gateway integration.
@@ -72,24 +78,25 @@ A modern e-commerce website designed with Next.js and Express.js. Key features:
   - Implemented responsive design to ensure compatibility across devices.
 
 ### EGL Africa
-- **Role**: Graphic Designer
-- **Duration**: [Duration]
+- **Role**: CTO, Graphics Designer
+- **Duration**: [1 year]
 - **Responsibilities**:
   - Created visual content for marketing campaigns.
   - Designed logos, brochures, and promotional materials.
   - Worked closely with clients to meet their branding needs.
 
 ### Centrall
-- **Role**: Mobile App Developer
-- **Duration**: [Duration]
+- **Role**: Brand Specialist 
+- **Duration**: [8 Months]
 - **Responsibilities**:
-  - Built cross-platform mobile applications using React Native.
-  - Integrated third-party APIs and services.
-  - Ensured high performance and responsiveness of applications.
+  - Created visual content for marketing campaigns.
+  - Designed logos, brochures, and promotional materials.
+  - Worked closely with clients to meet their branding needs.
+
 
 ### Tri-tech
 - **Role**: Full-Stack Developer
-- **Duration**: [Duration]
+- **Duration**: [4 Years]
 - **Responsibilities**:
   - Developed web applications using Node.js, Express.js, and Next.js.
   - Implemented backend services and RESTful APIs.
@@ -105,7 +112,7 @@ A modern e-commerce website designed with Next.js and Express.js. Key features:
 
 ### Bigtech Agency
 - **Role**: Senior Front-End Developer
-- **Duration**: [Duration]
+- **Duration**: [3 years - date]
 - **Responsibilities**:
   - Led front-end development projects.
   - Mentored junior developers and conducted code reviews.
@@ -116,9 +123,9 @@ A modern e-commerce website designed with Next.js and Express.js. Key features:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/musa-abdulkadir-b9b77a261/)
+- [Twitter](https://www.linkedin.com/in/musa-abdulkadir-b9b77a261/)
+- [Portfolio](https://designerme.com)
 
 ## 📝 Blog Posts
 
