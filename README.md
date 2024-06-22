@@ -135,9 +135,9 @@ A modern e-commerce website designed with Next.js and Express.js. Key features:
 
 ## 📈 GitHub Stats
 
-![Musa Abdulkadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Musa Abdulkadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=DesignerDev23&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DesignerDev23&layout=compact&theme=radical)
 
 ---
 
